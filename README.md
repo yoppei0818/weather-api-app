@@ -1,24 +1,19 @@
-# weather-api-app
+![天気アプリ](https://user-images.githubusercontent.com/79401069/140012180-3ae7e151-e7c2-47d8-a8fc-8964a2928e33.png)
 
-## Project setup
-```
-npm install
-```
+# 天気アプリ
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 制作理由
+→　axiosを使用して、外部APIを呼び出すという処理をしてみたかったからです。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 制作期間
+→　2日
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 環境
+→　windows 10pro、VScode
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 仕様
+・フロントエンド：Vuejs（axios）、SCSS
+
+・ソースコード管理：Git
+
+・デプロイ：Heroku （[天気アプリ](https://weather-api-yuri.herokuapp.com/)）
